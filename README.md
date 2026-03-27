@@ -51,7 +51,7 @@
 | **Frontend** | React, TypeScript, Vite, HTML5, CSS3, JavaScript |
 | **UI/UX** | Figma |
 | **Mobile** | Android (Java & XML) |
-| **Programming** | C# (ASP.NET MVC), Java, Python, C++ |
+| **Programming** | C# (ASP.NET MVC), Java, Python,|
 | **Tools & OS** | Git, Notion, DaVinci Resolve, ,  |
 
 ```dart
