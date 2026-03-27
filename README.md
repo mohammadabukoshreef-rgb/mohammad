@@ -30,7 +30,7 @@
 | **UI/UX** | Figma, Adobe Photoshop |
 | **Mobile** | Android (Java & XML) |
 | **Programming** | C# (ASP.NET MVC), Java, Python, C++ |
-| **Tools & OS** | Git, Notion, DaVinci Resolve, Linux, n8n |
+| **Tools & OS** | Git, Notion, DaVinci Resolve, , n8n |
 
 ```dart
 // My Technical Identity
