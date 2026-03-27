@@ -32,11 +32,13 @@
 <hr>
 
 ### 🧠 About Me
-- 🎓 **Education:** Software Engineering Student at Zarqa University.
+- 🎓 **Education:** Software Engineering Student .
 - 💻 **Focus:** Deeply passionate about **Frontend Development**, specifically **React**, **TypeScript**, and **Vite**.
 - 🎨 **Design:** I believe in "Design First, then Build" — heavily utilizing **Figma** for UI/UX.
 - ⚙️ **Backend/Desktop:** Experienced in C# (ASP.NET MVC), Java, and Python.
 - 🚀 **Philosophy:** I approach coding with a "Professional Engineering" mindset.
+
+
 
 <hr>
 
@@ -47,7 +49,7 @@
 | Category | technologies |
 | --- | --- |
 | **Frontend** | React, TypeScript, Vite, HTML5, CSS3, JavaScript |
-| **UI/UX** | Figma, Adobe Photoshop |
+| **UI/UX** | Figma |
 | **Mobile** | Android (Java & XML) |
 | **Programming** | C# (ASP.NET MVC), Java, Python, C++ |
 | **Tools & OS** | Git, Notion, DaVinci Resolve, , n8n |
@@ -62,4 +64,25 @@ class Developer extends Me {
     "Design"   : { "Figma", "UI/UX Architecture" },
     "Workflow" : { "Git", "Notion", "n8n Automation" }
   };
-}
+
+
+```
+
+
+
+ <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; "n8n Automation" <br>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> &nbsp;&nbsp; Software Design and Architecture.
+
+
+
+<div align="center" >
+
+<a  href="https://github.com/SP-XD">
+
+
+
+
+
