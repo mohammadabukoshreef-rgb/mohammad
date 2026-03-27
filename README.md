@@ -52,7 +52,7 @@
 | **UI/UX** | Figma |
 | **Mobile** | Android (Java & XML) |
 | **Programming** | C# (ASP.NET MVC), Java, Python, C++ |
-| **Tools & OS** | Git, Notion, DaVinci Resolve, , n8n |
+| **Tools & OS** | Git, Notion, DaVinci Resolve, ,  |
 
 ```dart
 // My Technical Identity
@@ -62,7 +62,7 @@ class Developer extends Me {
     "Mobile"   : { "Android Java", "XML" },
     "Backend"  : { "ASP.NET MVC", "Python", "Node.js" },
     "Design"   : { "Figma", "UI/UX Architecture" },
-    "Workflow" : { "Git", "Notion", "n8n Automation" }
+    "Workflow" : { "Git", "Notion",  }
   };
 
 
@@ -72,7 +72,7 @@ class Developer extends Me {
 
  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; "n8n Automation" <br>
+
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> &nbsp;&nbsp; Software Design and Architecture.
 
